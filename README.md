@@ -1,2 +1,2 @@
-# Cube
-用unity3d开发的俄罗斯方块游戏
+编程环境：Unity 5.6.5f1（64位）
+源文件名：project 2
